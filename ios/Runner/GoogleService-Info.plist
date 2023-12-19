@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDgDZ2rQ-u3zeEfV4qNnZH5cYuwj6z2QWg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>177615877818</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.udemyFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>udemy-course-50cd4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>udemy-course-50cd4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:177615877818:ios:45a631c6441a38eb6d7483</string>
+</dict>
+</plist>
